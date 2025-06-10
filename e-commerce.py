@@ -165,7 +165,7 @@ lista_grande = generar_lista(10000) # Generamos una lista más grande que se gua
 print(f"Se generaron {len(lista_grande)} productos únicos.")
 
 lista_chica = lista_grande[0:100] # Generamos una lista chica a partir de los primeros 100 elementos de la lista grande
-print(f"Se copiaron los primeros {len(lista_chica)} productos de la lista grande.")
+print(f"Se copiaron los primeros {len(lista_chica)} productos de la lista chica.")
 
 
 

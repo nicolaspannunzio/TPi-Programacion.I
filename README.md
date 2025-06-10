@@ -1,4 +1,4 @@
-# TPi - Programación I  
+# Trabajo Práctico Integrador - Programación I  
 ### Algoritmos de Búsqueda y Ordenamiento de Datos en Python
 
 Este trabajo práctico integrador para la materia **Programación I** implementa un caso práctico de e-commerce educativo, aplicando algoritmos fundamentales de programación como:
@@ -32,7 +32,7 @@ TPi-Programacion.I/
 - Analizar diferencias de rendimiento entre algoritmos.
 
 🧪 Se aplican pruebas sobre catálogos de:
-- 1.000 productos (lista pequeña)
+- 100 productos (lista pequeña)
 - 10.000 productos (lista grande)
 
 ---
@@ -45,6 +45,13 @@ TPi-Programacion.I/
   - `random`, `time` (módulos nativos)
 - Google Colab (desarrollo colaborativo)
 - Discord (coordinación remota en tiempo real)
+
+---
+
+## 🎥 Video demostrativo
+
+📹 Explicación detallada del proyecto y demostración:
+https://www.youtube.com/watch?v=P6D-8XQRnrI 
 
 ---
 
